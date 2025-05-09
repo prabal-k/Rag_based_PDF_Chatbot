@@ -48,3 +48,13 @@ The document is an introduction to Artificial Intelligence (AI). The topics disc
 ### Query 4: can you provide me a 1 line description about each of them ?
 
 ![Image](https://github.com/user-attachments/assets/4f34944c-a2b0-47fc-a357-ac886b5f288e)
+
+### Query 5: can you explain in simple terms how a AI model works ?
+
+
+![Image](https://github.com/user-attachments/assets/0bd3d8b7-90f1-4ab5-a302-b00fbf85eab2)
+
+### Query 6: further elaborate it .
+
+
+![Image](https://github.com/user-attachments/assets/89a7c73b-9ac9-4c0d-bd3f-463b2d7abd37)
