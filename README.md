@@ -27,6 +27,8 @@ This assistant is built on the principle of retrieval-augmented generation, whic
   
 - [Create Groq API Key]( https://console.groq.com/keys)
 
+---
+
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the Repository
@@ -63,4 +65,5 @@ GROQ_API_KEY = "your_groq_api_key_here"
 
 ```
 streamlit run rag_chatbot_ui.py
-``
+
+```
